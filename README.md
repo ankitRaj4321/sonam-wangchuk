@@ -1,1 +1,1 @@
-# sonam-wangchuk
+# solar_power
